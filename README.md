@@ -1,7 +1,7 @@
 testing-plugins
 ===============
 
-Some plugins that are to be used for testing libloadorder. They are all header-only, with empty author and description fields.
+Some plugins that are to be used for testing libloadorder. They are all header-only, with empty author and description fields (excepting `Skyrim/Data/Blank.esm`, which has `v5.0` in its description field).
 
 The following combinations are present:
 
