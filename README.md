@@ -30,3 +30,5 @@ The Skyrim plugins all have empty author fields, but otherwise contain descripti
 * `Blank - Different Plugin Dependent.esp`: Empty description field. Contains 1 record, overridden from `Blank - Different.esp`.
 
 All records are minimal BPTD (Body Part Data) records, so that the Skyrim plugins are also compatible with the Fallout 3 and Fallout: New Vegas record formats.
+
+The `Skyrim/Data` folder also contains a `Blank.bsa` and its accompanying `Blank.bsl`. These were created by the `Archive.exe` that is supplied with Skyrim's Creation Kit. The BSA contains only one file, which is the LICENSE file in this repository.
