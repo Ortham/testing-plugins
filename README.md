@@ -9,7 +9,7 @@ The Morrowind plugins are hand-made in a hex editor using the available document
 
 * `Blank.esm`: Description field value is `v5.0`. Contains 10 records.
 * `Blank - Master Dependent.esm`: Empty description field. Contains 8 records. 4 records are identical to records in `Blank.esm`.
-* `Blank.esp`: Empty description field. Contains 6 records.
+* `Blank.esp`: Description field value is `€ƒŠ`. Contains 6 records.
 
 All records are GMST records.
 
@@ -19,6 +19,7 @@ The Oblivion plugins were created with [xEdit](https://github.com/TES5Edit). The
 
 * `Blank.esm`: Description field value is `v5.0`. Contains 10 records, with one being an interior CELL.
 * `Blank - Master Dependent.esm`: Empty description field. Contains 8 records. 4 records are overridden from `Blank.esm`.
+* `Blank.esp`: Description field value is `€ƒŠ`.
 
 All records are minimal BOOK records unless otherwise noted above.
 
@@ -30,7 +31,7 @@ The Skyrim plugins were created with [xEdit](https://github.com/TES5Edit). They 
 * `Blank - Different.esm`: Empty description field. Contains 9 records.
 * `Blank - Master Dependent.esm`: Empty description field. Contains 8 records. 4 records are overridden from `Blank.esm`.
 * `Blank - Different Master Dependent.esm`: Empty description field. Contains 7 records. 4 records are overridden from `Blank - Different.esm`.
-* `Blank.esp`: Empty description field. Contains 6 records.
+* `Blank.esp`: Description field value is `€ƒŠ`. Contains 6 records.
 * `Blank - Different.esp`: Empty description field. Contains 5 records.
 * `Blank - Master Dependent.esp`: Empty description field. Contains 4 records. 2 records are overridden from `Blank.esm`.
 * `Blank - Different Master Dependent.esp`: Empty description field. Contains 3 records. 2 records are overridden from `Blank - Different.esm`.
