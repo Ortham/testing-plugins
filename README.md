@@ -38,6 +38,6 @@ The Skyrim plugins were created with [xEdit](https://github.com/TES5Edit). They 
 * `Blank - Plugin Dependent.esp`: Empty description field. Contains 2 records. 1 record is overridden from `Blank.esp`.
 * `Blank - Different Plugin Dependent.esp`: Empty description field. Contains 1 record, overridden from `Blank - Different.esp`.
 
-All records are minimal BPTD (Body Part Data) records unless otherwise noted above, so that the Skyrim plugins are also compatible with the Fallout 3 and Fallout: New Vegas record formats.
+All records are minimal BPTD (Body Part Data) records unless otherwise noted above, so that the Skyrim plugins are also compatible with the Fallout 3 and Fallout: New Vegas  record formats. They should also be compatible with the Fallout 4 record format, but this cannot be said for certain until official modding support and tools have been released for Fallout 4.
 
 The `Skyrim/Data` folder also contains a `Blank.bsa` and its accompanying `Blank.bsl`. These were created by the `Archive.exe` that is supplied with Skyrim's Creation Kit. The BSA contains only one file, which is the LICENSE file in this repository.
