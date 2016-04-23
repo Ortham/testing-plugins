@@ -1,7 +1,7 @@
 testing-plugins
 ===============
 
-Some plugins that are used for testing [libespm](https://github.com/WrinklyNinja/libespm), [libloadorder](https://github.com/WrinklyNinja/libloadorder) and [LOOT](https://github.com/LOOT) with a wide variety of possible load order combinations.
+Some plugins that are used for testing [libbsa](https://github.com/WrinklyNinja/libbsa), [libespm](https://github.com/WrinklyNinja/libespm), [libloadorder](https://github.com/WrinklyNinja/libloadorder) and [LOOT](https://github.com/LOOT) with a wide variety of possible load order combinations.
 
 ## Morrowind Plugins
 
@@ -22,6 +22,9 @@ The Oblivion plugins were created with [xEdit](https://github.com/TES5Edit). The
 * `Blank.esp`: Description field value is `€ƒŠ`.
 
 All records are minimal BOOK records unless otherwise noted above.
+
+The `Oblivion/Data` folder also contains a `Blank.bsa`. It was created using [BSA Commander](http://www.nexusmods.com/oblivion/mods/3311/). The BSA contains only one file, which is the LICENSE file in this repository, and is compressed.
+
 
 ## Skyrim Plugins
 
