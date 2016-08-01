@@ -30,7 +30,7 @@ The `Oblivion/Data` folder also contains a `Blank.bsa`. It was created using [BS
 
 The Skyrim plugins were created with [xEdit](https://github.com/TES5Edit). They all have empty author fields, but otherwise contain description fields and records as follows:
 
-* `Blank.esm`: Description field value is `v5.0`. Contains 10 records, with one being an interior CELL.
+* `Blank.esm`: Description field value is `v5.0`. Contains 10 records, with one being an interior CELL. The `TES4` header also contains an `XXXX` subrecord followed by an `ONAM` subrecord that contains 16,384 `0x00000000` FormID references.
 * `Blank - Different.esm`: Empty description field. Contains 9 records.
 * `Blank - Master Dependent.esm`: Empty description field. Contains 8 records. 4 records are overridden from `Blank.esm`.
 * `Blank - Different Master Dependent.esm`: Empty description field. Contains 7 records. 4 records are overridden from `Blank - Different.esm`.
