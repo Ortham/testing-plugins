@@ -50,3 +50,14 @@ The `Skyrim/Data` folder also contains a `Blank.bsa` and its accompanying `Blank
 The Skyrim SE plugins, `Blank.bsa` and `Blank.bsl` files are identical to the Skyrim plugins detailed above, as Skyrim SE and Fallout 4 use the same file formats.
 
 A `Blank.esl` plugin is also included which has the same content as `Blank.esp`, but also has the light master flag set in its header.
+
+## Fallout 4 Archive
+
+The `Fallout 4/Data` folder contains:
+
+* `Blank.esp`: a plugin containing no records.
+* `Blank.dds`: a DDS texture file created in Paint.net by saving the default 800x600 blank white image.
+* `Blank - Main.ba2`: an archive that contains only one file, which is the LICENSE file in this repository, stored at `dev/git/testing-plugins/LICENSE.txt` within the BA2 file.
+* `Blank - Textures.ba2`: an archive that contains only file, which is the `Blank.dds` file, stored at `dev/git/testing-plugins/Blank.dds` within the BA2 file.
+
+The plugin and both BA2 files were created using the Fallout 4 Creation Kit.
