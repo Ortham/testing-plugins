@@ -1,7 +1,7 @@
 testing-plugins
 ===============
 
-Some plugins that are used for testing [libbsa](https://github.com/WrinklyNinja/libbsa), [libespm](https://github.com/WrinklyNinja/libespm), [libloadorder](https://github.com/WrinklyNinja/libloadorder) and [LOOT](https://github.com/LOOT) with a wide variety of possible load order combinations.
+Some plugins that are used for testing [libbsa](https://github.com/Ortham/libbsa), [libespm](https://github.com/Ortham/libespm), [libloadorder](https://github.com/Ortham/libloadorder) and [LOOT](https://github.com/LOOT) with a wide variety of possible load order combinations.
 
 ## Morrowind Plugins
 
