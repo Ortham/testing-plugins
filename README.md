@@ -61,3 +61,14 @@ The `Fallout 4/Data` folder contains:
 * `Blank - Textures.ba2`: an archive that contains only file, which is the `Blank.dds` file, stored at `dev/git/testing-plugins/Blank.dds` within the BA2 file.
 
 The plugin and both BA2 files were created using the Fallout 4 Creation Kit.
+
+## Starfield Plugins
+
+The `Starfield/Data` folder contains:
+
+* `Blank.esp`: Description field value is `v5.0`. Contains 10 records, with one being an interior CELL.
+* `Blank.full.esm`: `Blank.esp` exported as a full master.
+* `Blank.medium.esm`: `Blank.esp` exported as a medium master.
+* `Blank.small.esm`: `Blank.esp` exported as a small (a.k.a. light) master.
+
+The plugins were created using the Starfield Creation Kit.
