@@ -70,5 +70,9 @@ The `Starfield/Data` folder contains:
 * `Blank.full.esm`: `Blank.esp` exported as a full master.
 * `Blank.medium.esm`: `Blank.esp` exported as a medium master.
 * `Blank.small.esm`: `Blank.esp` exported as a small (a.k.a. light) master.
+* `Blank - Override.esp`: Contains 1 record overridden from `Blank.full.esm`, and has the override flag set.
+* `Blank - Override.full.esm`: `Blank - Override.esp` exported as a full master.
+* `Blank - Override.medium.esm`: `Blank - Override.esp` exported as a medium master.
+* `Blank - Override.small.esm`: `Blank - Override.esp` exported as a small (a.k.a. light) master.
 
-The plugins were created using the Starfield Creation Kit.
+The plugins were created using the Starfield Creation Kit. The override flag was set in a hex editor.
